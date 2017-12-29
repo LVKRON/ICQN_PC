@@ -28,7 +28,6 @@ public class StartUI extends JFrame {
 	// private Dimension sPanel_Size = new Dimension(300, 100);
 
 	public void startUI() {
-
 		this.setSize(300, 500);
 		this.setTitle("ICQN START");
 		this.setLocationRelativeTo(null);
